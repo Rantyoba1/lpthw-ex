@@ -1,4 +1,4 @@
 # lpthw-ex
 practice
-this is for tutorialpurpose
+this is for tutorial purpose
 
